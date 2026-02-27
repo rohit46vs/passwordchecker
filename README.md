@@ -128,19 +128,6 @@ Options:
 
 ---
 
-## 🗺️ What's Next?
-
-This is **Project 1** of a cybersecurity learning series. Coming up next:
-
-- 📌 **Project 2** — Caesar Cipher / Encryption Tool
-- 📌 **Project 3** — Port Scanner
-- 📌 **Project 4** — Network Packet Analyzer
-- 📌 **Project 5** — Web Vulnerability Scanner
-- 📌 **Project 6** — Honeypot
-- 📌 **Project 7** — Log Analyzer
-
----
-
 ## 👨‍💻 Author
 
 Built by a cybersecurity enthusiast learning one project at a time. 🚀
