@@ -7,7 +7,7 @@ A beginner-friendly cybersecurity project that analyzes the strength of password
 ## 📁 Project Structure
 
 ```
-Proje/
+
 ├── password_checker.py   # Main program file
 └── README.md             # This file
 ```
